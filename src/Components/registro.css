@@ -1,0 +1,36 @@
+
+
+.formulario {
+    background-color: aquamarine;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.base {
+    border: 3px solid red;
+    padding: 5px;
+}
+
+.boton {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px; 
+    margin: 3px;
+}
+
+.peligro {
+    background-color: rgb(214, 88, 88);
+}
+
+.info {
+    background-color: rgb(81, 54, 237);
+}
+
+.disabled {
+    background-color: #e9e9e9; /* Green */
+}
